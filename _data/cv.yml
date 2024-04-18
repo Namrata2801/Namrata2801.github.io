@@ -17,22 +17,26 @@
       description:
         - 'Result (1st year): <b>79.02%</b> (<u>Magna cum laude</u>)'
         - 'Thesis: <b>Microproteins - What are they really?</b>'
+
     - title: "Master of Science, Zoology"
       institution: '<a href="http://kmc.du.ac.in/">Kirorimal College, University of Delhi</a>'
       year: 2015-2017
       description:
         - 'Result: <b>First Division, 79.8%</b> (awarded <u>Gold Medal</u> for best academic record)'
         - 'Thesis: <b>Metabolic reprogramming and epigenetic regulation in cancer</b>'
+
     - title: "Bachelor of Science (Honours), Zoology"
       institution: '<a href="https://www.deshbandhucollege.ac.in/">Deshbandhu College, University of Delhi</a>'
       year: 2012-15
       description:
         - 'Result: <b>First Division, 90.02%</b> (awarded <u>Gold Medal</u> for best academic record)'
+
     - title: "AISSCE 12<sup>th</sup> Board, (Higher Secondary School Exam)"
       institution: '<a href="http://davcpssiwan.net.in/">D.A.V. Centenary Public School, Siwan, Bihar</a>'
       year: 2010
       description:
         - 'Result: <b>78.8%</b>'
+        
     - title: "AISSE 10<sup>th</sup> Board, (Secondary School Exam)"
       institution: '<a href="http://davcpssiwan.net.in/">D.A.V. Centenary Public School, Siwan, Bihar</a>'
       year: 2008
