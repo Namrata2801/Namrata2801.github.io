@@ -8,50 +8,49 @@
     - name: Address
       value: Leuven, Belgium
 
-    
-
 - title: Education
-  type: table
+  type: time_table
   contents:
-    - title: '<a href="https://www.kuleuven.be/english/kuleuven/index.html/">KU Leuven</a> <br>
-              Master of Bioinformatics'
+    - title: "Master of Bioinformatics"
+      institution: '<a href="https://www.kuleuven.be/english/kuleuven/index.html/">KU Leuven</a>'
       year: 2022-Present
       description:
         - 'Result (1st year): <b>79.02%</b> (<u>Magna cum laude</u>)'
         - 'Thesis: <b>Microproteins - What are they really?</b>'
-    - title: '<a href="http://kmc.du.ac.in/">Kirorimal College, University of Delhi</a> <br>
-              Master of Science, Zoology'
+    - title: "Master of Science, Zoology"
+      institution: '<a href="http://kmc.du.ac.in/">Kirorimal College, University of Delhi</a>'
       year: 2015-2017
       description:
         - 'Result: <b>First Division, 79.8%</b> (awarded <u>Gold Medal</u> for best academic record)'
         - 'Thesis: <b>Metabolic reprogramming and epigenetic regulation in cancer</b>'
-    - title: '<a href="https://www.deshbandhucollege.ac.in/">Deshbandhu College, University of Delhi</a> <br>
-              Bachelor of Science (Honours), Zoology'
+    - title: "Bachelor of Science (Honours), Zoology"
+      institution: '<a href="https://www.deshbandhucollege.ac.in/">Deshbandhu College, University of Delhi</a>'
       year: 2012-15
       description:
         - 'Result: <b>First Division, 90.02%</b> (awarded <u>Gold Medal</u> for best academic record)'
-    - title: '<a href="http://davcpssiwan.net.in/">D.A.V. Centenary Public School, Siwan, Bihar</a> <br>
-              AISSCE 12<sup>th</sup> Board, (Higher Secondary School Exam)'
+    - title: "AISSCE 12<sup>th</sup> Board, (Higher Secondary School Exam)"
+      institution: '<a href="http://davcpssiwan.net.in/">D.A.V. Centenary Public School, Siwan, Bihar</a>'
       year: 2010
       description:
         - 'Result: <b>78.8%</b>'
-    - title: '<a href="http://davcpssiwan.net.in/">D.A.V. Centenary Public School, Siwan, Bihar</a> <br>
-              AISSE 10<sup>th</sup> Board, (Secondary School Exam)'
+    - title: "AISSE 10<sup>th</sup> Board, (Secondary School Exam)"
+      institution: '<a href="http://davcpssiwan.net.in/">D.A.V. Centenary Public School, Siwan, Bihar</a>'
       year: 2008
       description:
         - 'Result: <b>92.2%</b> (secured <u>2<sup>nd</sup> position</u> among more than 300 students in school)'
 
 
 - title: Work Experience
-  type: table
+  type: time_table
   contents:
     - title: 'Integrated Bioinformatics Project' <br>
               Team member'
+      institution: '<a href="https://www.kuleuven.be/english/kuleuven/index.html/">KU Leuven</a>'
       year: Oct - Dec, 2023
       description:
         - 'Projects: Analysis of matrix deformation from cortical laser ablation images'
-    - title: '<a href="https://csa-india.org/">Center for Sustainable Agriculture</a> <br>
-              Bio Lab Manager'
+    - title: "Bio Lab Manager"
+      institution: '<a href="https://csa-india.org/">Center for Sustainable Agriculture</a>'
       year: 2020-21
       description:
         - 'Projects:
@@ -66,14 +65,14 @@
             <li>Training farmers to become bio-entrepreneurs by self-producing and marketing of biofertilizers across 3 districts of Andhra Pradesh, India.</li>
           </ul> </li>
         </ol>'
-    - title: '<a href="https://www.igib.res.in/">CSIR - IGIB (Institute for Genomics and Integrative Biology)</a><br>
-              Project Assistant'
+    - title: "Project Assistant"
+      institution: '<a href="https://www.igib.res.in/">CSIR - IGIB (Institute for Genomics and Integrative Biology)</a>'
       year: 2017-2019
       description:
-        - 'Project: <a href="https://rnabiologylab.com/research">Sickle Cell Anemia Mission</a>'
-        - 'Advisor: <a href="https://rnabiologylab.com/">Dr. Debojyoti Chakraborty</a>'
-    - title: '<a href="https://www.deshbandhucollege.ac.in/zoology.php?departments=Zoology">Department of Zoology, Deshbandhu College</a><br>
-              Project Student'
+        - 'Project: <a href="https://rnabiologylab.co.in/research">Sickle Cell Anemia Mission</a>'
+        - 'Advisor: <a href="https://rnabiologylab.co.in/">Dr. Debojyoti Chakraborty</a>'
+    - title: "Project Student"
+      institution: '<a href="https://www.deshbandhucollege.ac.in/zoology.php?departments=Zoology">Department of Zoology, Deshbandhu College</a>'
       year: 2017-2019
       description:
         - 'Project: Influence of plant extracts on reproductive physiology and behavior of <i>Aedes aegypti</i>'
@@ -92,15 +91,15 @@
     - 'Participated in the <b>INSPIRE Internship Program</b> organized by Deshbandhu College, University of Delhi, 2012'
 
 - title: Awards, Fellowships, and Honours
-  type: table
+  type: nested_list
   contents:
-    - year: Fellowhips
+    - title: Fellowhips
       items: 
         - 'Secured <b>All India Rank 66 in <a href="https://csirnet.nta.nic.in/">CSIR-UGC NET (Life Sciences)</a> exam</b> and <b>qualified for <a href="https://csirhrdg.res.in/Home/Index/1/Default/1886/60">Junior Research Fellowship</a></b>, 2017'
         - 'Received <b>merit grant from Faculty of Science, University of Delhi</b> for securing 3<sup>rd</sup> rank in University in M.Sc. Zoology, 1st year, 2016'
         - 'Received <b>merit grant from Faculty of Science, University of Delhi</b> for securing 3<sup>rd</sup> rank in University in B.Sc. (Hons.) Zoology, 2015'
 
-    - year: Awards and<br> Honours
+    - title: Awards and<br> Honours
       items:
         - 'Received <b>certificate of appreciation</b> from <b>Telangana Social Impact Group, Government of Telangana</b> for my volunteer work during Covid-19 pandemic'
         - 'Secured <b>3<sup>rd</sup> rank in University and 1<sup>st</sup> rank (Gold Medal) in Kirorimal College</b> in M.Sc. Zoology, University of Delhi, 2017'
