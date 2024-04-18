@@ -36,7 +36,7 @@
       year: 2010
       description:
         - 'Result: <b>78.8%</b>'
-        
+
     - title: "AISSE 10<sup>th</sup> Board, (Secondary School Exam)"
       institution: '<a href="http://davcpssiwan.net.in/">D.A.V. Centenary Public School, Siwan, Bihar</a>'
       year: 2008
@@ -53,6 +53,7 @@
       year: Oct - Dec, 2023
       description:
         - 'Projects: Analysis of matrix deformation from cortical laser ablation images'
+
     - title: "Bio Lab Manager"
       institution: '<a href="https://csa-india.org/">Center for Sustainable Agriculture</a>'
       year: 2020-21
@@ -69,12 +70,14 @@
             <li>Training farmers to become bio-entrepreneurs by self-producing and marketing of biofertilizers across 3 districts of Andhra Pradesh, India.</li>
           </ul> </li>
         </ol>'
+
     - title: "Project Assistant"
       institution: '<a href="https://www.igib.res.in/">CSIR - IGIB (Institute for Genomics and Integrative Biology)</a>'
       year: 2017-2019
       description:
         - 'Project: <a href="https://rnabiologylab.co.in/research">Sickle Cell Anemia Mission</a>'
         - 'Advisor: <a href="https://rnabiologylab.co.in/">Dr. Debojyoti Chakraborty</a>'
+        
     - title: "Project Student"
       institution: '<a href="https://www.deshbandhucollege.ac.in/zoology.php?departments=Zoology">Department of Zoology, Deshbandhu College</a>'
       year: 2017-2019
