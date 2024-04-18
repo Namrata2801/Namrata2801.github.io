@@ -2,96 +2,141 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Namrata
+    - name: Contact
+      value: namrata [dot] 7838 [at] gmail [dot] com
+    - name: Address
+      value: Leuven, Belgium
+
+    
 
 - title: Education
-  type: time_table
+  type: table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: '<a href="https://www.kuleuven.be/english/kuleuven/index.html/">KU Leuven</a> <br>
+              Master of Bioinformatics'
+      year: 2022-Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - 'Result (1st year): <b>79.02%</b> (<u>Magna cum laude</u>)'
+        - 'Thesis: <b>Microproteins - What are they really?</b>'
+    - title: '<a href="http://kmc.du.ac.in/">Kirorimal College, University of Delhi</a> <br>
+              Master of Science, Zoology'
+      year: 2015-2017
       description:
-        - Description 1.
-        - Description 2.
+        - 'Result: <b>First Division, 79.8%</b> (awarded <u>Gold Medal</u> for best academic record)'
+        - 'Thesis: <b>Metabolic reprogramming and epigenetic regulation in cancer</b>'
+    - title: '<a href="https://www.deshbandhucollege.ac.in/">Deshbandhu College, University of Delhi</a> <br>
+              Bachelor of Science (Honours), Zoology'
+      year: 2012-15
+      description:
+        - 'Result: <b>First Division, 90.02%</b> (awarded <u>Gold Medal</u> for best academic record)'
+    - title: '<a href="http://davcpssiwan.net.in/">D.A.V. Centenary Public School, Siwan, Bihar</a> <br>
+              AISSCE 12<sup>th</sup> Board, (Higher Secondary School Exam)'
+      year: 2010
+      description:
+        - 'Result: <b>78.8%</b>'
+    - title: '<a href="http://davcpssiwan.net.in/">D.A.V. Centenary Public School, Siwan, Bihar</a> <br>
+              AISSE 10<sup>th</sup> Board, (Secondary School Exam)'
+      year: 2008
+      description:
+        - 'Result: <b>92.2%</b> (secured <u>2<sup>nd</sup> position</u> among more than 300 students in school)'
 
-- title: Experience
-  type: time_table
+
+- title: Work Experience
+  type: table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: 'Integrated Bioinformatics Project' <br>
+              Team member'
+      year: Oct - Dec, 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - 'Projects: Analysis of matrix deformation from cortical laser ablation images'
+    - title: '<a href="https://csa-india.org/">Center for Sustainable Agriculture</a> <br>
+              Bio Lab Manager'
+      year: 2020-21
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - 'Projects:
+        <ol>
+          <li>  Building resilient farm livelihoods of 20,000 farmers to adapt to climate change.(Funding by Azim Premji Philanthropy Initiative), 2020-21.
+          <ul>
+            <li> Establishment of CSA Biolab for production and maintenance of bio-fertilizer mother-cultures and quality testing of bio-fertilizers.</li>
+            <li> Microbial profiling of <i>Jeevamrutham</i> and <i>SMJ</i> (Simple Microbial preparation using <i>Jeevamrutham</i> as Inoculum) by Shotgun metagenome sequencing. </li>
+          </ul> </li>
+          <li> COVID Livelihood Grant (Funding from Azim Premji Philanthropy Initiative), June 2020 - March 2021. 
+          <ul>
+            <li>Training farmers to become bio-entrepreneurs by self-producing and marketing of biofertilizers across 3 districts of Andhra Pradesh, India.</li>
+          </ul> </li>
+        </ol>'
+    - title: '<a href="https://www.igib.res.in/">CSIR - IGIB (Institute for Genomics and Integrative Biology)</a><br>
+              Project Assistant'
+      year: 2017-2019
       description:
+        - 'Project: <a href="https://rnabiologylab.com/research">Sickle Cell Anemia Mission</a>'
+        - 'Advisor: <a href="https://rnabiologylab.com/">Dr. Debojyoti Chakraborty</a>'
+    - title: '<a href="https://www.deshbandhucollege.ac.in/zoology.php?departments=Zoology">Department of Zoology, Deshbandhu College</a><br>
+              Project Student'
+      year: 2017-2019
+      description:
+        - 'Project: Influence of plant extracts on reproductive physiology and behavior of <i>Aedes aegypti</i>'
+        - 'Advisors: <a href="https://www.deshbandhucollege.ac.in/uploads/Resume/Zoology/Dr.-Ranjana-Seth.pdf">Dr. Ranjana Seth</a>, <a href="https://www.deshbandhucollege.ac.in/uploads/Resume/Zoology/Dr.-Varsha-Baweja.pdf">Dr. Varsha Baweja</a>'
+    
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Conferences and Workshops
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - 'Organized <b>CRISPR-Cas9 based precision genome editing workshop</b>, CSIR-IGIB, 2018'
+    - 'Participated in <b>INSCR International Conference</b> on <i>Role of Microbe-Plant-Animal Interactions in Human Health</i>, University of Delhi, 2017'
+    - 'Attended workshop on <b>Microbial Genomics and Metagenomics</b>, Department of Zoology, University of Delhi, 2016'
+    - 'Attended <b>National Symposium on Vector Biology and Vector Management</b>, Deshbandhu College, University of Delhi, 2015'
+    - 'Attended <b>National Symposium on Vector Biology and Vector Management</b>, Deshbandhu College, University of Delhi, 2013'
+    - 'Attended <b>National Seminar on Natural Products: Application in Human Welfare</b>, Ramjas College, University of Delhi, 2013'
+    - 'Participated in the <b>INSPIRE Internship Program</b> organized by Deshbandhu College, University of Delhi, 2012'
+
+- title: Awards, Fellowships, and Honours
+  type: table
+  contents:
+    - year: Fellowhips
+      items: 
+        - 'Secured <b>All India Rank 66 in <a href="https://csirnet.nta.nic.in/">CSIR-UGC NET (Life Sciences)</a> exam</b> and <b>qualified for <a href="https://csirhrdg.res.in/Home/Index/1/Default/1886/60">Junior Research Fellowship</a></b>, 2017'
+        - 'Received <b>merit grant from Faculty of Science, University of Delhi</b> for securing 3<sup>rd</sup> rank in University in M.Sc. Zoology, 1st year, 2016'
+        - 'Received <b>merit grant from Faculty of Science, University of Delhi</b> for securing 3<sup>rd</sup> rank in University in B.Sc. (Hons.) Zoology, 2015'
+
+    - year: Awards and<br> Honours
+      items:
+        - 'Received <b>certificate of appreciation</b> from <b>Telangana Social Impact Group, Government of Telangana</b> for my volunteer work during Covid-19 pandemic'
+        - 'Secured <b>3<sup>rd</sup> rank in University and 1<sup>st</sup> rank (Gold Medal) in Kirorimal College</b> in M.Sc. Zoology, University of Delhi, 2017'
+        - 'Secured <b>3<sup>rd</sup> rank in University and 1<sup>st</sup> rank (Gold Medal) in Deshbandhu College</b> in B.Sc. (Hons.) Zoology, University of Delhi, 2015'
+        - 'Received <b>Shri P.M. Kaul Memorial Award for Outstanding Academic Performance</b> in B.Sc. (Hons.) Zoology, 2015'
+
+- title: Student Advised
+  type: list
+  contents:
+    - '<b>Katharina Kirchhof</b> (co-advised by Dr. Debojyoti Chakraborty, CSIR-IGIB)<br>
+      Project: Purification and quantity estimation of Cas9 proteins.'
+    - '<b>Abhinav Pujar</b> (co-advised by Dr. Debojyoti Chakraborty, CSIR-IGIB)<br>
+      Project: Purification and characterization of CRISPR-Cas9 components and demonstration of <i>In Vitro</i> Cleavage assay.'
+
+- title: Skills and Techniques
+  type: list
+  contents:
+    - 'Electrophoretic Techniques (Agarose, SDS-PAGE, etc.)'
+    - 'Protein Purification (Cas9 variants) by Affinity and Size-Exclusion Chromatography'
+    - 'Genomic DNA and Plasmid Isolation from bacterial cells'
+    - 'PCR (Polymerase Chain Reaction) and Cloning'
+    - 'Bacterial cells Transformation by Heat shock Method and Electroporation'
+    - 'CRISPR based <i>In Vitro</i> techniques like <i>In Vitro</i> Transcription (IVT) and <i>In Vitro</i> Cleavage Assay (IVC)'
+    - 'Protein Estimation by BCA (Bicinchoninic Acid Assay) and Bradford assay'
+    - 'Mammalian Cell Culture (Passaging, Transfection, Genomic DNA Isolation)'
+    - 'Primer designing and sgRNA (single guide RNA) designing'
+    - 'Quality testing of bio-fertilizers using colony count method'
+    - 'R, Python, SQL, Bash, High performance computing, Git, Machine Learning'
+    - 'Next-generation sequencing data analysis (Bulk RNA seq, TF-ChIP seq, sc-ATAC seq, etc.)'
+    - 'Cortical Laser ablation image analysis using optical flow technique'
+
+- title: Extra Curricular Activities
+  type: list
+  contents:
+    - 'Trained in <a href="https://en.wikipedia.org/wiki/Kathak"><i>Kathak Dance</i></a> (Indian Classical Dance form) for 4 years'
+    - 'Trained in <a href="https://en.wikipedia.org/wiki/Hindustani_classical_music"><i>Hindustani Classical Music</i> (Vocal)</a> for 2 years'
+    - 'Trained in <a href="https://en.wikipedia.org/wiki/Hip-hop_dance"><i>Hip Hop</i></a> (Western Dance) for 4 months'
+    - 'Member of NGO <a href="https://www.umeedngo.org/"><i>Umeed - A Drop of Hope</i></a> '
+    

@@ -1,34 +1,62 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
-
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
-
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
-
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
-
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Acharya"
+  -firstname: ["Sundaram"]
+"Mishra"
+  -firstname: ["Arpit"]
+"Paul"
+  -firstname: ["Deepanjan"]
+"Ansari"
+  -firstname: ["Asgar Hussain"]
+"Azhar"
+  -firstname: ["Mohd"]
+"Kumarl"
+  -firstname: ["Manoj"]
+"Rauthan"
+  -firstname: ["Riya"]
+"Sharma"
+  -firstname: ["Namrata"]
+"Aich"
+  -firstname: ["Meghali"]
+"Sinhal"
+  -firstname: ["Dipanjali"]
+"Sharma"
+  -firstname: ["Saumya"]
+"Jain"
+  -firstname: ["Shivani"]
+"Ray"
+  -firstname: ["Arjun"]
+"Jain"
+  -firstname: ["Suman"]
+"Ramalingam"
+  -firstname: ["Sivaprakash"]
+"Maiti"
+  -firstname: ["Souvik"]
+"Chakraborty"
+  -firstname: ["Debojyoti"]
+"Phutela"
+  -firstname: ["Rhythm"]
+"Gulati"
+  -firstname: ["Sneha"]
+"Singh"
+  -firstname: ["Sunaina"]
+"Sarkar"
+  -firstname: ["Sajal"]
+"Kathpalia"
+  -firstname: ["Poorti"]
+"Sehgal"
+  -firstname: ["Paras"]
+"Ranjan"
+  -firstname: ["Gyan"]
+"Bhoyar"
+  -firstname: ["Rahul C."]
+"Singhal"
+  -firstname: ["Khushboo"]
+"Lad"
+  -firstname: ["Harsha"]
+"Patra"
+  -firstname: ["Pradeep Kumar"]
+"Makharia"
+  -firstname: ["Govind"]
+"Chandak"
+  -firstname: ["Giriraj Ratan"]
+"Pesala"
+  -firstname: ["Bala"]
