@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.kuleuven.be/english/kuleuven'>KU Leuven</a>.
+subtitle: <a href='https://www.kuleuven.be/english/kuleuven'>KU Leuven</a>
 
 profile:
   align: right
