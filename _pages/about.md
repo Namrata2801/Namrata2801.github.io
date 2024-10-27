@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a final year Bioinformatics master’s student at [KU Leuven](https://www.kuleuven.be/english/kuleuven/index.html) with an interest in computational and molecular biology, multi-omics data integration, and environmental sustainability. My master's thesis is centered on the characterization of microproteins in the proteome landscape.
+I hold a Master’s degree in Bioinformatics from [KU Leuven](https://www.kuleuven.be/english/kuleuven/index.html) and have a strong interest in interdisciplinary research that integrates laboratory and computational approaches. I am particularly passionate about cancer biology research, with a focus on identifying and implementing biomarkers for patient diagnosis and stratification. My master's thesis was focussed on the characterization of microproteins in the proteome landscape. Additionally, I am committed to promoting environmental sustainability. 
 
 Previously, I worked as a Bio-Lab manager in a non-profit organization called [Center for Sustainable Agriculture (CSA)](https://en.wikipedia.org/wiki/Centre_for_Sustainable_Agriculture), Hyderabad. There I established a bio-lab to produce and maintain mother-cultures of [beneficial soil microbes](https://en.wikipedia.org/wiki/Biofertilizer) and test the quality of liquid biofertilizers. I also trained farmers across several villages in Andhra Pradesh, India, to become bio-entrepreneurs by self-producing and marketing biofertilizers.
 
