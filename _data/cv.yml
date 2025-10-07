@@ -12,6 +12,12 @@
   type: time_table
   contents:
     - title: "Master of Bioinformatics"
+      institution: '<a href="https://igfl.ens-lyon.fr/">IGFL,ENS-Lyon</a>'
+      year: 2024-2027
+      description:
+        - 'Thesis: <b>Does regeneration re-use developmental gene regulatory networks (GRNs)?</b>'
+
+    - title: "Master of Bioinformatics"
       institution: '<a href="https://www.kuleuven.be/english/kuleuven/index.html/">KU Leuven</a>'
       year: 2022-2024
       description:
