@@ -6,12 +6,12 @@
     - name: Contact
       value: namrata [dot] 7838 [at] gmail [dot] com
     - name: Address
-      value: Leuven, Belgium
+      value: Lyon, France
 
 - title: Education
   type: time_table
   contents:
-    - title: "Master of Bioinformatics"
+    - title: "PhD"
       institution: '<a href="https://igfl.ens-lyon.fr/">IGFL,ENS-Lyon</a>'
       year: 2024-2027
       description:
